@@ -1,0 +1,152 @@
+
+/* Refined Responsive CSS for Landing Page */
+
+/* General Reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Exclude Navbar and Footer */
+nav, footer {
+    all: unset;
+}
+
+/* Typography */
+h1, .h1, h2, .h2, h3, .h3 {
+    font-weight: bold;
+    line-height: 1.2;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+h1, .h1 {
+    font-size: 2.5rem;
+}
+
+h2, .h2 {
+    font-size: 2rem;
+}
+
+h3, .h3 {
+    font-size: 1.75rem;
+}
+
+p, .body-text {
+    font-size: 1rem;
+    line-height: 1.6;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;
+}
+
+/* Content Containers */
+.content-block {
+    padding: 20px;
+    margin: 10px auto;
+    max-width: 1200px;
+    text-align: center;
+    overflow-wrap: break-word;
+}
+
+/* Responsive Flexbox */
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+/* Buttons */
+button, .btn {
+    padding: 12px 24px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Tablet devices (widths between 768px and 991px) */
+@media screen and (max-width: 991px) {
+    h1, .h1 {
+        font-size: 2rem;
+    }
+
+    h2, .h2 {
+        font-size: 1.75rem;
+    }
+
+    h3, .h3 {
+        font-size: 1.5rem;
+    }
+
+    p, .body-text {
+        font-size: 0.95rem;
+    }
+
+    .flex-container {
+        flex-direction: column;
+    }
+
+    .content-block {
+        padding: 15px;
+        max-width: 90%;
+    }
+}
+
+/* Mobile devices (widths less than 768px) */
+@media screen and (max-width: 767px) {
+    h1, .h1 {
+        font-size: 1.75rem;
+    }
+
+    h2, .h2 {
+        font-size: 1.5rem;
+    }
+
+    h3, .h3 {
+        font-size: 1.25rem;
+    }
+
+    p, .body-text {
+        font-size: 0.9rem;
+    }
+
+    .flex-container {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .content-block {
+        padding: 10px;
+        max-width: 95%;
+    }
+
+    button, .btn {
+        font-size: 0.9rem;
+        padding: 10px 20px;
+    }
+
+    /* Fix for overlapping text and content overflow */
+    .content-block, p, h1, h2, h3, .body-text {
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+        white-space: normal;
+    }
+
+    /* Ensure images fit containers */
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
