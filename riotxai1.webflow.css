@@ -31546,3 +31546,79 @@ strong {
     text-align: center;
   }
 }
+
+/* Enhanced Mobile Responsive Styles */
+@media screen and (max-width: 768px) {
+
+  /* General container adjustments */
+  .w-layout-blockcontainer, .w-container {
+    max-width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+    box-sizing: border-box;
+  }
+
+  /* Ensure vertical stacking */
+  .w-layout-grid, .w-row {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .w-col {
+    width: 100%;
+  }
+
+  /* Images scaling */
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  /* Headers visibility and scaling */
+  h1, h2, h3, h4, h5, h6 {
+    font-size: calc(1.2em + 2vw);
+    margin: 0.5em 0;
+    word-break: break-word;
+  }
+
+  /* Text scaling */
+  p, li, a, span {
+    font-size: calc(1em + 1vw);
+    line-height: 1.5;
+    word-break: break-word;
+  }
+
+  /* Navigation adjustments */
+  .w-nav-menu {
+    display: none;
+  }
+
+  .w-nav-button {
+    display: block;
+  }
+
+  /* Buttons and interactive elements */
+  .w-button {
+    width: 100%;
+    font-size: calc(1em + 1vw);
+  }
+
+  /* Forms and inputs */
+  input, textarea, select {
+    width: 100%;
+    font-size: calc(1em + 1vw);
+    box-sizing: border-box;
+  }
+
+  /* Footer adjustments */
+  .footer {
+    text-align: center;
+  }
+
+  /* Prevent horizontal scrolling */
+  body {
+    overflow-x: hidden;
+  }
+}
