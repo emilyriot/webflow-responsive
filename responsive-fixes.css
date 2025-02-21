@@ -1,0 +1,3900 @@
+
+/* Responsive Fixes for Tablet and Mobile Views */
+
+/* Tablet devices (widths between 768px and 991px) */
+@media screen and (max-width: 991px) {
+
+    .content-style-241 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-json {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .column-119 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._1 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .mobile-btn {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-lightbox {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-245 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-nav-link {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-block-54 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._305 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-691 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-form {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-235 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .referral-story-end {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-23 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-242 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tri-57 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-246 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .sumarry {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .calculate {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-103 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-top-14 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-252 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .container {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-247 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-64 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-233 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .no-color-change {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-form-formradioinput {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .relative-z-5 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-38 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .green {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-95 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .cb {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-75 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-nav-button {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .image-16 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .row-33 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-100 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .referral-story {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-container {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-108 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .stylesecondary-smallfalse-alternatefalse-icon-positionno-icon-28 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-690 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .subheading-one-18 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .landingama-button {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-nav-menu {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-24 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-52 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-106 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .referral-code {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .placeholder-image-9 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .footer-black-box {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .body-4 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .referral-text {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .mobile-header {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-63 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .orange {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .learning-more {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .ad {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-239 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._46 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-685 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-27 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .logo-mobile {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .btn-wrapper {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-icon-nav-menu {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .medium-length-section-heading-goes-here-28 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .hide {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .purple {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-236 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .trust_pilot-div {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .column-118 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-689 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._2 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .wsp {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .referral-button {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-238 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .column-121 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-field-2 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-25 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .desktop-header {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .space-20 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .is-hide {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .countdown-wrapper-landing {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-240 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .clock-label-landingama {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .code-embed {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .users-referral-page-12 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .green-border {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-251 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .paragraph {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .nav-menu {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .proofing {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-246 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .bold-text-18 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .mobile-login {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .is-small {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-248 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .section-title-33 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .purple-gradient-text {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .link-block-2 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-embed {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .landing-ama {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .space-60 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .flex-mobile-center {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .hide-in-mobile {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .padding-20px {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .paragraph-7 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .nav-link {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .space-40 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._22 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .column-117 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-block-15 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .blue {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .frame-18 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .row-63 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-249 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .close-icon {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._434 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .brand {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .riotxai {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-3 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-686 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._10 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .social-icon {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-235 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .icon-chevron-right-2 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .cta-36 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .is-full {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-radio-input {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-form-label {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-suspendisse-varius-enim-in-eros-elementum-tristique-duis-cursus-mi-quis-viverra-ornare-eros-dol-34 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .success-message {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .flex-left-top {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .tagline-24 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-244 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .color-white {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .mobile-link {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-140 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .address {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .b-margin-20px {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-form-done {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .header-style-18 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-layout-blockcontainer {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-20 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .footer-color-box {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .padding-10px {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._25 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-button {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .menu-icon {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .green-gradient-text {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .tagline-wrapper-18 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .long-heading-is-what-you-see-here-in-this-feature-section-20 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .footin {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .footer {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-190 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .button-style-68 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-238 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tri-56 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .medium-length-section-heading-goes-here-29 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-65 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-block-16 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-237 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-suspendisse-varius-enim-in-eros-elementum-tristique-duis-cursus-mi-quis-viverra-ornare-eros-dol-33 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-242 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .mobile-only {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .stylelink-smallfalse-alternatetrue-icon-positiontrailing-8 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .flex-left-center {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .image-big {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .tagline-43 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._3 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .container-37 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .teaming {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-234 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .actions-62 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-nav-brand {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .is-right {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .footer-link {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-61 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .mobile-menu {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-22 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-clearfix {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-239 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .column-120 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .header {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .bninging {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .new-landing-page {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-250 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._526 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .bg-yellow-gradient {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-74 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .short-heading-here-19 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-107 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .countdown-item {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-form-fail {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .stylelink-smallfalse-alternatefalse-icon-positiontrailing-10 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .normal {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-241 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .section-4 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .social-link {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .section-24 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .cb1 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .flex-v-hori-mobile {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .navbar {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .frame-19 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .paragraph-9 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .form-block-2 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .landingama-heading {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-104 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .column-122 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .space-120 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-682 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .button {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-2 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-240 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-input {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .row-62 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-683 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-243 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .referral-story-join {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .actions-64 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .long-heading-is-what-you-see-here-in-this-feature-section-7 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-243 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .mobile-text-center {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-76 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .section-title-32 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-radio {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-nav {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .container-36 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-block-43-langindama {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-687 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .space-10 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-suspendisse-varius-enim-in-eros-elementum-tristique-duis-cursus-mi-quis-viverra-ornare-eros-dol-35 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._304 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-684 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .desktop-only {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-inline-block {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .log-in {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-97 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-237 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-245 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .frame-17 {
+        padding: 10px !important;
+        margin: 10px auto !important;
+        font-size: 1rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+}
+
+/* Mobile devices (widths less than 768px) */
+@media screen and (max-width: 767px) {
+
+    .content-style-241 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-json {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .column-119 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._1 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .mobile-btn {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-lightbox {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-245 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-nav-link {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-block-54 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._305 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-691 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-form {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-235 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .referral-story-end {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-23 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-242 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tri-57 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-246 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .sumarry {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .calculate {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-103 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-top-14 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-252 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .container {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-247 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-64 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-233 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .no-color-change {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-form-formradioinput {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .relative-z-5 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-38 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .green {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-95 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .cb {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-75 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-nav-button {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .image-16 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .row-33 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-100 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .referral-story {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-container {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-108 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .stylesecondary-smallfalse-alternatefalse-icon-positionno-icon-28 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-690 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .subheading-one-18 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .landingama-button {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-nav-menu {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-24 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-52 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-106 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .referral-code {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .placeholder-image-9 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .footer-black-box {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .body-4 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .referral-text {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .mobile-header {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-63 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .orange {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .learning-more {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .ad {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-239 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._46 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-685 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-27 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .logo-mobile {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .btn-wrapper {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-icon-nav-menu {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .medium-length-section-heading-goes-here-28 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .hide {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .purple {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-236 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .trust_pilot-div {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .column-118 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-689 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._2 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .wsp {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .referral-button {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-238 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .column-121 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-field-2 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-25 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .desktop-header {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .space-20 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .is-hide {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .countdown-wrapper-landing {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-240 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .clock-label-landingama {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .code-embed {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .users-referral-page-12 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .green-border {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-251 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .paragraph {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .nav-menu {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .proofing {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-246 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .bold-text-18 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .mobile-login {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .is-small {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-248 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .section-title-33 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .purple-gradient-text {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .link-block-2 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-embed {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .landing-ama {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .space-60 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .flex-mobile-center {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .hide-in-mobile {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .padding-20px {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .paragraph-7 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .nav-link {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .space-40 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._22 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .column-117 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-block-15 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .blue {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .frame-18 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .row-63 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-249 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .close-icon {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._434 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .brand {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .riotxai {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-3 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-686 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._10 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .social-icon {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-235 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .icon-chevron-right-2 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .cta-36 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .is-full {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-radio-input {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-form-label {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-suspendisse-varius-enim-in-eros-elementum-tristique-duis-cursus-mi-quis-viverra-ornare-eros-dol-34 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .success-message {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .flex-left-top {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .tagline-24 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-244 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .color-white {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .mobile-link {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-140 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .address {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .b-margin-20px {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-form-done {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .header-style-18 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-layout-blockcontainer {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-20 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .footer-color-box {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .padding-10px {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._25 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-button {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .menu-icon {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .green-gradient-text {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .tagline-wrapper-18 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .long-heading-is-what-you-see-here-in-this-feature-section-20 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .footin {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .footer {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-190 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .button-style-68 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-238 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tri-56 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .medium-length-section-heading-goes-here-29 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-65 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-block-16 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-237 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-suspendisse-varius-enim-in-eros-elementum-tristique-duis-cursus-mi-quis-viverra-ornare-eros-dol-33 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-242 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .mobile-only {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .stylelink-smallfalse-alternatetrue-icon-positiontrailing-8 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .flex-left-center {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .image-big {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .tagline-43 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._3 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .container-37 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .teaming {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-234 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .actions-62 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-nav-brand {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .is-right {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .footer-link {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-61 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .mobile-menu {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-22 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-clearfix {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-239 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .column-120 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .header {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .bninging {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .new-landing-page {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-250 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._526 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .bg-yellow-gradient {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-74 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .short-heading-here-19 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-107 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .countdown-item {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-form-fail {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .stylelink-smallfalse-alternatefalse-icon-positiontrailing-10 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .normal {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-241 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .section-4 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .social-link {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .section-24 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .cb1 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .flex-v-hori-mobile {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .navbar {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .frame-19 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .paragraph-9 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .form-block-2 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .landingama-heading {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-104 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .column-122 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .space-120 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-682 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .button {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-2 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-240 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-input {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .row-62 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-683 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .heading-243 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .referral-story-join {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .actions-64 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .long-heading-is-what-you-see-here-in-this-feature-section-7 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-243 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .mobile-text-center {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-76 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .section-title-32 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-radio {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-nav {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .container-36 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-block-43-langindama {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-687 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .space-10 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .text-suspendisse-varius-enim-in-eros-elementum-tristique-duis-cursus-mi-quis-viverra-ornare-eros-dol-35 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    ._304 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .layout-684 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .desktop-only {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .w-inline-block {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .log-in {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .div-block-97 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-237 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .content-style-245 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+    .frame-17 {
+        padding: 5px !important;
+        margin: 5px auto !important;
+        font-size: 0.9rem !important;
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+    
+}
